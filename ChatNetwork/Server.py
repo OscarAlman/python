@@ -5,7 +5,7 @@ import threading
 
 
 # List of connected clients
-clients = []∏
+clients = []
 
 
 
