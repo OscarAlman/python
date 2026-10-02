@@ -7,6 +7,7 @@ class car:
         self.brand=value
 
 
+
 mycar=car()  
 
 mycar.brand=("aston martin db8")
